@@ -1,6 +1,6 @@
 <!-- 👩‍💻 HD CODER GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ0YmR2Y21xZG8ycWl4bDJ6bmhheGM3ZmR5ZXVxdGhlMGlvM2d6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnOHnjfm8uJkZW4ky4/giphy.gif" width=100% />
+  <img src="#" width=100% />
 </p>
 
 <h1 align="center">Hi 👋, I'm Neelampalli charan Balaji</h1>
@@ -21,8 +21,7 @@
 ### 👩‍💻 About Me
 - 🔭 I'm a **Frontend Developer** building beautiful & responsive web apps
 - 🌱 I'm currently learning **Next.js & TypeScript**
-- 💻 My core stack: **HTML, CSS, JavaScript, React, Git**
-- 🛠️ Also exploring: **Tailwind CSS, Node.js, MongoDB, Firebase,Postgresql, Figma**
+- 💻 My core stack: **HTML, CSS, JavaScript, React, Git, Tailwind CSS, Node.js, MongoDB, Firebase,Postgresql, Figma**
 - 🤝 Open to collaborate on **open-source projects & hackathons**
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/)
 - ⚡ Fun fact: *I debug with snacks 🍕*
