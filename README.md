@@ -60,28 +60,6 @@
 <br />
 <img src="https://skillicons.dev/icons?i=solidity,rust,git,github,vscode,postman" />
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charanbalaji2005&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
-</div>
-
----
 
 ## 🏅 GSSoC 2026 Journey
 <div align="center">
@@ -96,6 +74,25 @@
 - 🤖 Specializing in the **AI Agents Track**.
 - 🌍 Actively contributing to **Open Source Projects** and global developer tooling.
 - 💡 Building AI-powered applications, CLI tools and Blockchain.
+
+- ### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=radical&hide_border=true&background=0D1117" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charanbalaji2005&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css" />
+</div>
 
 ### 🔥 Featured Projects
 
@@ -117,6 +114,18 @@
 - 🧠 **AI Academy:** Completed the Gen AI Academy APAC Edition, building milestones using Google Vertex AI.
 - 🏆 **Hackathons:** Actively competing in events like CodeSpark India and building MERN/Next.js solutions.
 ---
+
+
+## 🏅 Achievements
+
+- 🚀 GSSoC'26 Contributor
+- 🤖 AI Agents Track Participant
+- 🌍 Open Source Contributor
+- 💻 MERN Stack Developer
+- 🧠 Building AI Agents & Automation Tools
+
+---
+
 ---
 
 
