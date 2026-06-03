@@ -71,29 +71,29 @@
 ---
 
 ## 🏅 GSSoC 2026 Journey
-
 <div align="center">
-  <img src="../assets/contributor.png" width="180" alt="GSSoC Contributor Badge" />
-  <img src="../assets/open-source-track.png" width="180" alt="GSSoC Open Source Track Badge" />
-  <img src="../assets/ai-agents-track.png" width="180" alt="GSSoC AI Agents Track Badge" />
+  <img src="https://github.com/user-attachments/assets/d1e7cfb4-ccd9-4520-a8c5-9ff8552944c2" width="180" alt="GSSoC Contributor Badge" />
+  <img src="https://github.com/user-attachments/assets/a2c8bfcd-41a6-4510-a30f-ae62e29de765" width="180" alt="GSSoC Open Source Track Badge" />
+  <img src="https://github.com/user-attachments/assets/4e12b5c4-0841-4c2a-9bca-f031b6aabcf8" width="180" alt="GSSoC AI Agents Track Badge" />
 </div>
+
 
 ### 🚀 About My Participation
 - 🎯 Selected for **GirlScript Summer of Code 2026**.
 - 🤖 Specializing in the **AI Agents Track**.
 - 🌍 Actively contributing to **Open Source Projects** and global developer tooling.
-- 💡 Building AI-powered applications, CLI tools, and decentralized systems.
+- 💡 Building AI-powered applications, CLI tools and Blockchain.
 
-### 🔥 Featured & Advanced Projects
+### 🔥 Featured Projects
 
-| Project & Repository | Description | Tech Stack |
-|----------------------|-------------|------------|
-| 🤖 **[Astra-AI](https://github.com/charanbalaji2005/Astra-AI)** | Pinned AI application focused on intelligent automation. | JavaScript, AI APIs |
-| 🛡️ **Autonomous DeFi Protection Vault** | Web3 smart contract vault built on HashKey Chain integrating RiskOracle for dynamic risk mitigation. | Solidity, Hardhat, Rust |
-| 🚀 **[ISS Live Tracker](https://github.com/charanbalaji2005/ISS-Live-Tracker)** | Real-time International Space Station tracking platform featuring a Gemini API-powered floating assistant. | React, Gemini API, Node.js |
-| 📦 **[auth-kit-backend](https://www.npmjs.com/package/auth-kit-backend)** | Published npm package providing plug-and-play backend authentication for modern web apps. | Node.js, Express, NPM |
-| 🏢 **Automated Employee Portal** | Full-stack employee management system with automated onboarding, dashboard analytics, and OTP generation. | MERN Stack, PHP, MySQL |
-| 🌍 **City Travel & Safety Assistant** | Hackathon project delivering real-time tourism info alongside built-in safety tools for travelers. | React, Tailwind, Maps API |
+| Project | Description | 
+|---------|-------------|
+| 📦 **[Charan-CLI](https://github.com/charanbalaji2005/Charan-CLI)** | Developer productivity CLI tool |
+| 🛠️ **[NPM-PACKAGE](https://github.com/charanbalaji2005/NPM-PACKAGE)** | Custom npm package development |
+| 🤖 **[Luminar-AI](https://github.com/charanbalaji2005/Luminar-AI)** | Intelligent AI-powered application |
+| 🗳️ **[Blockchain-Voting](https://github.com/charanbalaji2005/Blockchain-Voting)** | Secure decentralized voting system |
+| 📊 **[CryptoView-solidity](https://github.com/charanbalaji2005/CryptoView-solidity)** | Cryptocurrency analytics via smart contracts |
+| 🧠 **[AI-AGENT](https://github.com/charanbalaji2005/AI-AGENT)** | Automated AI Agent development |
 
 ---
 
@@ -104,20 +104,27 @@
 - 🧠 **AI Academy:** Completed the Gen AI Academy APAC Edition, building milestones using Google Vertex AI.
 - 🏆 **Hackathons:** Actively competing in events like CodeSpark India and building MERN/Next.js solutions.
 ---
+---
 
-### 🐍 Contribution Graph
+
+
+### 🐍 Contribution Snake
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
-  </picture>
+
+  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/output/github-snake-dark.svg" alt="contribution snake" />
+
 </div>
+
+
 
 ---
 
 ### 🌐 Let's Connect
 <div align="center">
+  <a href="https://mern-portfolio-sxad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
