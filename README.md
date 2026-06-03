@@ -1,9 +1,4 @@
-<!-- 💫 Dynamic Header Banner -->
-
-<p align="center">
   <img src="YOUR_GIF_URL" width="100%" alt="AI Developer Animation">
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
