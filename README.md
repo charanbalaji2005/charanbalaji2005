@@ -46,37 +46,72 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📊 GitHub Analytics
 
-**Frontend & Design**
-<br />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+<div align="center">
 
-**Backend & Database**
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,postgres,firebase" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-**Web3, AI & Tools**
-<br />
-<img src="https://skillicons.dev/icons?i=solidity,rust,git,github,vscode,postman" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charanbalaji2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+---
+<h2 align="center">⚒️ Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,postgres,firebase,supabase,git,github,vscode,figma&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</div>
 
 
+---
 ## 🏅 GSSoC 2026 Journey
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d1e7cfb4-ccd9-4520-a8c5-9ff8552944c2" width="180" alt="GSSoC Contributor Badge" />
   <img src="https://github.com/user-attachments/assets/a2c8bfcd-41a6-4510-a30f-ae62e29de765" width="180" alt="GSSoC Open Source Track Badge" />
   <img src="https://github.com/user-attachments/assets/4e12b5c4-0841-4c2a-9bca-f031b6aabcf8" width="180" alt="GSSoC AI Agents Track Badge" />
 </div>
-
+---
 
 ### 🚀 About My Participation
 - 🎯 Selected for **GirlScript Summer of Code 2026**.
 - 🤖 Specializing in the **AI Agents Track**.
 - 🌍 Actively contributing to **Open Source Projects** and global developer tooling.
 - 💡 Building AI-powered applications, CLI tools and Blockchain.
-
+---
 - ### 📊 GitHub Analytics
-
+---
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=radical&hide_border=true&background=0D1117" height="165" />
@@ -93,6 +128,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css" />
 </div>
+---
 
 ### 🔥 Featured Projects
 
