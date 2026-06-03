@@ -44,33 +44,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/).
 - ⚡ Fun fact: *I debug with snacks 🍕*
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charanbalaji2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 ---
 <h2 align="center">⚒️ Tech Stack & Tools</h2>
 
@@ -110,26 +84,68 @@
 - 🌍 Actively contributing to **Open Source Projects** and global developer tooling.
 - 💡 Building AI-powered applications, CLI tools and Blockchain.
 ---
-- ### 📊 GitHub Analytics
----
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=radical&hide_border=true&background=0D1117" height="165" />
-</div>
 
-<br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charanbalaji2005&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" />
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css" />
-</div>
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=charanbalaji2005&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charanbalaji2005&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charanbalaji2005&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charanbalaji2005&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charanbalaji2005&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charanbalaji2005&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charanbalaji2005&theme=tokyonight" />
+
+</div>
+
+---
 ### 🔥 Featured Projects
 
 | Project | Description | 
