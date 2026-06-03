@@ -70,12 +70,16 @@
 
 ---
 
+# Welcome to My GitHub Profile 👋
+
+---
+
 ## 🏅 GSSoC 2026 Journey
 
 <p align="center">
-  <img src="./assets/contributor.png" width="180" alt="GSSoC Contributor Badge" />
-  <img src="./assets/open-source-track.png" width="180" alt="GSSoC Open Source Track Badge" />
-  <img src="./assets/ai-agents-track.png" width="180" alt="GSSoC AI Agents Track Badge" />
+  <img src="../assets/contributor.png" width="180" alt="GSSoC Contributor Badge" />
+  <img src="../assets/open-source-track.png" width="180" alt="GSSoC Open Source Track Badge" />
+  <img src="../assets/ai-agents-track.png" width="180" alt="GSSoC AI Agents Track Badge" />
 </p>
 
 ### 🚀 About My GSSoC'26 Participation
