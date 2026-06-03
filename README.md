@@ -1,4 +1,9 @@
-  <img src="YOUR_GIF_URL" width="100%" alt="AI Developer Animation">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77f764b1-f8ba-4c98-8305-4397b1c31850" width="100%" alt="Coding Animation">
+</p>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
