@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
-<h3 align="center">🚀 Full-Stack Web Developer | Web3 & AI Enthusiast | GSSOC'26 Contributor</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Web3 & AI Developer | GSSOC'26 Contributor</h3>
 
 <!-- Typing Animation -->
 <div align="center">
@@ -108,12 +108,13 @@
 
 
 
-### 🐍 Contribution Snake
-
+### 🐍 Contribution Graph
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/output/github-snake-dark.svg" alt="contribution snake" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+  </picture>
 </div>
 
 
