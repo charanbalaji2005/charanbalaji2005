@@ -11,13 +11,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94D5F&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Web3+%26+Blockchain+Explorer;Building+AI-Powered+Applications;I+debug+with+snacks+🍕" alt="Typing Animation" />
   </a>
 </div>
-
-<!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=charanbalaji2005&color=e94d5f&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=charanbalaji2005&style=for-the-badge&color=blueviolet" />
 </div>
 
-<br />
+<p align="center">
+  <a href="https://mern-portfolio-sxad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/charanbalaji2005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -120,21 +128,6 @@
 
 
 ---
-
-### 🌐 Let's Connect
-<div align="center">
-  <a href="https://mern-portfolio-sxad.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/charanbalaji2005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
