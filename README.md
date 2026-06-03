@@ -1,122 +1,133 @@
-<!-- 👩‍💻 HD CODER GIF -->
-<p align="center">
-  <img src="#" width=100% />
-</p>
+<!-- 💫 Dynamic Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Neelampalli charan Balaji</h1>
-<h3 align="center">🚀 Open Source Contributor | Frontend Developer | GSSOC'26 Contributor</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Web3 & AI Enthusiast | GSSOC'26 Contributor</h3>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E94D5F&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Open+Source+Contributor;Learning+Next.js+%26+TypeScript;I+debug+with+snacks+🍕" />
-</p>
+<div align="center">
+  <a href="https://github.com/charanbalaji2005">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94D5F&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Web3+%26+Blockchain+Explorer;Building+AI-Powered+Applications;I+debug+with+snacks+🍕" alt="Typing Animation" />
+  </a>
+</div>
 
 <!-- Profile Views -->
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratikshya32&color=e94d5f&style=flat&label=Profile+Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=charanbalaji2005&color=e94d5f&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br />
+
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I'm a **Frontend Developer** building beautiful & responsive web apps
-- 🌱 I'm currently learning **Next.js & TypeScript**
-- 💻 My core stack: **HTML, CSS, JavaScript, React, Git, Tailwind CSS, Node.js, MongoDB, Firebase,Postgresql, Figma**
-- 🤝 Open to collaborate on **open-source projects & hackathons**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/)
+
+- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** @ SRMAP University (2024-2028).
+- 🔭 Currently building **Full-Stack MERN applications**, **Web3 tools**, and **AI-integrated platforms**.
+- 🌱 Mastering **Next.js, TypeScript**, and diving deeper into **Rust** for blockchain development.
+- 🏆 Active competitive programmer solving problems on **LeetCode & Codeforces**.
+- 🤝 Open to collaborating on **open-source projects, hackathons**, and innovative web apps.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/).
 - ⚡ Fun fact: *I debug with snacks 🍕*
 
 ---
 
-### 🌐 Connect with me:
-<p align="center">
-<a href="https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/charanbalaji2005">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+### 🛠️ Tech Stack & Tools
+
+**Frontend & Design**
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+
+**Backend & Database**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,postgres,firebase" />
+
+**Web3, AI & Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=solidity,rust,git,github,vscode,postman" />
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,nodejs,mongodb,firebase,git,github,figma,vscode" />
-</p>
+### 📊 GitHub Analytics
 
----
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanbalaji2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanbalaji2005&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
+</div>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pratikshya32&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikshya32&theme=radical" height="160"/>
-</p>
+<br />
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charanbalaji2005&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratikshya32&theme=onedark&margin-w=15&margin-h=15" />
-</p>
+<br />
 
----
-
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pratikshya32&layout=compact&theme=radical&hide=html" />
-</p>
-
----
-
-# Welcome to My GitHub Profile 👋
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanbalaji2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏅 GSSoC 2026 Journey
 
-<p align="center">
+<div align="center">
   <img src="../assets/contributor.png" width="180" alt="GSSoC Contributor Badge" />
   <img src="../assets/open-source-track.png" width="180" alt="GSSoC Open Source Track Badge" />
   <img src="../assets/ai-agents-track.png" width="180" alt="GSSoC AI Agents Track Badge" />
-</p>
+</div>
 
-### 🚀 About My GSSoC'26 Participation
+### 🚀 About My Participation
+- 🎯 Selected for **GirlScript Summer of Code 2026**.
+- 🤖 Specializing in the **AI Agents Track**.
+- 🌍 Actively contributing to **Open Source Projects** and global developer tooling.
+- 💡 Building AI-powered applications, CLI tools, and decentralized systems.
 
-- 🎯 Selected for **GSSoC 2026**
-- 🤖 Contributing in the **AI Agents Track**
-- 🌍 Actively contributing to **Open Source Projects**
-- 💡 Building AI-powered applications and developer tools
-- 🤝 Collaborating with maintainers and contributors worldwide
+### 🔥 Featured & Advanced Projects
 
-### 🔥 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| [Charan-CLI](https://github.com/charanbalaji2005/Charan-CLI) | Developer productivity CLI tool |
-| [NPM-PACKAGE](https://github.com/charanbalaji2005/NPM-PACKAGE) | Custom npm package development |
-| [Luminar-AI](https://github.com/charanbalaji2005/Luminar-AI) | AI-powered application |
-| [Blockchain-Voting](https://github.com/charanbalaji2005/Blockchain-Voting) | Secure blockchain-based voting system |
-| [CryptoView-solidity](https://github.com/charanbalaji2005/CryptoView-solidity) | Cryptocurrency analytics using Solidity |
-| [AI-AGENT](https://github.com/charanbalaji2005/AI-AGENT) | AI Agent development and automation |
-
-### 🎯 Goals for GSSoC'26
-
-- Contribute to impactful open-source projects
-- Build production-ready AI applications
-- Improve developer tooling and automation
-- Collaborate with the global developer community
+| Project & Repository | Description | Tech Stack |
+|----------------------|-------------|------------|
+| 🤖 **[Astra-AI](https://github.com/charanbalaji2005/Astra-AI)** | Pinned AI application focused on intelligent automation. | JavaScript, AI APIs |
+| 🛡️ **Autonomous DeFi Protection Vault** | Web3 smart contract vault built on HashKey Chain integrating RiskOracle for dynamic risk mitigation. | Solidity, Hardhat, Rust |
+| 🚀 **[ISS Live Tracker](https://github.com/charanbalaji2005/ISS-Live-Tracker)** | Real-time International Space Station tracking platform featuring a Gemini API-powered floating assistant. | React, Gemini API, Node.js |
+| 📦 **[auth-kit-backend](https://www.npmjs.com/package/auth-kit-backend)** | Published npm package providing plug-and-play backend authentication for modern web apps. | Node.js, Express, NPM |
+| 🏢 **Automated Employee Portal** | Full-stack employee management system with automated onboarding, dashboard analytics, and OTP generation. | MERN Stack, PHP, MySQL |
+| 🌍 **City Travel & Safety Assistant** | Hackathon project delivering real-time tourism info alongside built-in safety tools for travelers. | React, Tailwind, Maps API |
 
 ---
 
-### 🐍 Contribution Snake
+### ⚡ Latest Activity & Contributions
+
+- 🔐 **Published NPM Packages:** Recently shipped `auth-kit-backend` to the global npm registry.
+- ⛓️ **Web3 Integration:** Actively developing decentralized wallet dashboards and smart contracts using Solidity and Hardhat. 
+- 🧠 **AI Academy:** Completed the Gen AI Academy APAC Edition, building milestones using Google Vertex AI.
+- 🏆 **Hackathons:** Actively competing in events like CodeSpark India and building MERN/Next.js solutions.
+---
+
+### 🐍 Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/output/github-snake-dark.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
 
-### ✨ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### 🌐 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/charanbalaji2005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
