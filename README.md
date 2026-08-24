@@ -1,14 +1,8 @@
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77f764b1-f8ba-4c98-8305-4397b1c31850" width="100%" alt="Coding Animation">
-</p>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
-<h3 align="center">🚀 Full-Stack Web Developer | Web3 & AI Developer | GSSOC'26 Contributor</h3>
+<h3 align="center">AI Developer Full-Stack Web Developer | GSSOC'26 Contributor</h3>
 
 <!-- Typing Animation -->
 <div align="center">
@@ -38,7 +32,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** @ SRMAP University (2024-2028).
 - 🔭 Currently building **Full-Stack MERN applications**, **Web3 tools**, and **AI-integrated platforms**.
-- 🌱 Mastering **Next.js, TypeScript**, and diving deeper into **Rust** for blockchain development.
+- 🌱 Mastering **Next.js, TypeScript**, and diving deeper into **Solidity** for blockchain development.
 - 🏆 Active competitive programmer solving problems on **LeetCode & Codeforces**.
 - 🤝 Open to collaborating on **open-source projects, hackathons**, and innovative web apps.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelampalli-charan-balaji-0b36b7336/).
