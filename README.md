@@ -14,7 +14,7 @@
 | -------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 🥈 **2nd Place — CCC Digital India Private Limited Internship 2026** | Secured **2nd Place** in the internship project competition |
 | 🏅 **Individual Merit Certificate**                                  | Recognized for individual performance during the internship |
-| 🎖️ **8th Rank — Among 90 Interns**                                   | Ranked **11th among 90 interns**                            |
+| 🎖️ **8th Rank — Among 90 Interns**                                   | Ranked **8th among 90 interns**                            |
 | 🚀 **GSSoC'26 Contributor**                                          | Selected contributor for GirlScript Summer of Code 2026     |
 
 
