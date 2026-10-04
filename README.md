@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77f764b1-f8ba-4c98-8305-4397b1c31850" width="100%" alt="Coding Animation">
+  <img src="<img width="1400" height="513" alt="image" src="https://github.com/user-attachments/assets/81600224-93cd-43f0-a921-c78d80cf3feb" />" width="100%" alt="Coding Animation">
 </p>
 
 <div align="center">
