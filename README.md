@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="<img width="1400" height="513" alt="image" src="https://github.com/user-attachments/assets/81600224-93cd-43f0-a921-c78d80cf3feb" />" width="100%" alt="Coding Animation">
+  <img width="2000" height="513" alt="image" src="https://github.com/user-attachments/assets/81600224-93cd-43f0-a921-c78d80cf3feb" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20N.Charan%20Balaji!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
+<h1 style = "height=40, width=auto" >Neelampalli Charan Balaji </h1>
 
 <h3 align="center">AI Developer Full-Stack Web Developer | GSSOC'26 Contributor</h3>
 
@@ -93,6 +91,31 @@
 - 💡 Building AI-powered applications, CLI tools and Blockchain.
 ---
 
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[AI-Agent-Marketplace](https://github.com/charanbalaji2005/AI-Agent-Marketplace)** | AI agent marketplace and agent-based application development |
+| **[solana-funding-copilot](https://github.com/charanbalaji2005/solana-funding-copilot)** | Solana ecosystem funding and Web3 tooling |
+| **[FixForge-AI](https://github.com/charanbalaji2005/FixForge-AI)** | AI-focused developer tooling and problem-solving |
+| **[Atlas-](https://github.com/charanbalaji2005/Atlas-)** | Modern software engineering project |
+| **[GlassyUI-Components](https://github.com/charanbalaji2005/GlassyUI-Components)** | Reusable glassmorphism UI components |
+| **[Dune-GPU](https://github.com/charanbalaji2005/Dune-GPU)** | GPU architecture and low-level computing exploration |
+| **[AI-TOKENIZER](https://github.com/charanbalaji2005/AI-TOKENIZER)** | Tokenization tools for AI and language-model workflows |
+| **[KAIROS-CLI](https://github.com/charanbalaji2005/KAIROS-CLI)** | Command-line developer tooling |
+
+---
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
+  </picture>
+</div>
+
 
 
 ---
@@ -153,19 +176,7 @@
 
 </div>
 
----
-### 🔥 Featured Projects
 
-| Project | Description | 
-|---------|-------------|
-| 📦 **[Charan-CLI](https://github.com/charanbalaji2005/Charan-CLI)** | Developer productivity CLI tool |
-| 🛠️ **[NPM-PACKAGE](https://github.com/charanbalaji2005/NPM-PACKAGE)** | Custom npm package development |
-| 🤖 **[Luminar-AI](https://github.com/charanbalaji2005/Luminar-AI)** | Intelligent AI-powered application |
-| 🗳️ **[Blockchain-Voting](https://github.com/charanbalaji2005/Blockchain-Voting)** | Secure decentralized voting system |
-| 📊 **[CryptoView-solidity](https://github.com/charanbalaji2005/CryptoView-solidity)** | Cryptocurrency analytics via smart contracts |
-| 🧠 **[AI-AGENT](https://github.com/charanbalaji2005/AI-AGENT)** | Automated AI Agent development |
-
----
 
 ### ⚡ Latest Activity & Contributions
 
@@ -183,21 +194,6 @@
 - 🌍 Open Source Contributor
 - 💻 MERN Stack Developer
 - 🧠 Building AI Agents & Automation Tools
-
----
-
----
-
-
-
-### 🐍 Contribution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charanbalaji2005/charanbalaji2005/output/github-snake.svg">
-  </picture>
-</div>
 
 
 
