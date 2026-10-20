@@ -17,10 +17,13 @@
 
 
 <!-- Typing Animation -->
+
 <div align="center">
   <a href="https://github.com/charanbalaji2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94D5F&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Web3+%26+Blockchain+Explorer;Building+AI-Powered+Applications;I+debug+with+snacks+🍕" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94D5F&center=true&vCenter=true&width=800&lines=Linux+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+Intelligent+Systems+%26+Open-Source+Tools" alt="Typing Animation" />
   </a>
+</div>
+
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=charanbalaji2005&style=for-the-badge&color=blueviolet" />
